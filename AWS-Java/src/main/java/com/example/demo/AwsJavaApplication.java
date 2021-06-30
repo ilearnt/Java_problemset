@@ -24,8 +24,8 @@ public class AwsJavaApplication {
 
 	public static void main(String[] args) {
 		final AWSCredentials credentials = new BasicAWSCredentials(
-				  "AKIA4GC25EXF2XSLW65E", 
-				  "ZpefbPZYtNZJfItTnYtpT5WyTb2vtm0wR2NX6T2A"
+				  "Access key ID", 
+				  "Secret access key"
 				);
 
 
